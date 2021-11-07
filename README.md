@@ -19,7 +19,7 @@ Solution the task NoFireWithAI for AI Journey Contest 2021
 
 Например, при правильном предсказании во все дни, кроме первого можем получить ошибку в 7 из 8 случаях:
 <!-- ![Пример плохого прогноза](graphics/prognoz_corr.png) -->
-<img src = "graphics/prognoz_corr.png" width="250" height="100">
+<img src = "graphics/prognoz_corr.png" width="350" height="100">
 
 При этом за прогноз пожара позже реального ошибка удваивается. Поэтому порог для последующих дней надо уменьшать, чтобы не получить большую ошибку из-за прогноза позже истинного.
 
