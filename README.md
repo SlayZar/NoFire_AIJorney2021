@@ -11,7 +11,7 @@ Solution the task NoFireWithAI for AI Journey Contest 2021
 
 Например, при правильном предсказании во все дни, кроме первого можем получить ошибку в 7 из 8 случаях:
 <!-- ![Пример плохого прогноза](graphics/prognoz_corr.png) -->
-<img src = "graphics/prognoz_corr.png" wudth="300" height="150">
+<img src = "graphics/prognoz_corr.png" wudth="200" height="100">
 
 В результате оптимальное значение порога для каждой модели подбиралось индивидуально (на валидационной выборке, после чего проверялось на Public лидерборде).
 
