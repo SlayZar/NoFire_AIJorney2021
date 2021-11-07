@@ -16,4 +16,4 @@ Solution the task NoFireWithAI for AI Journey Contest 2021
 
 Оптимальные пороговые значения бинаризаций моделей представлены на графике:
 
-![Изменение порога бинаризации моделей](graphics/threshold_change.png)
+![Изменение порога бинаризации моделей]{ width: 200px}(graphics/threshold_change.png)
