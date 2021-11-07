@@ -1,6 +1,12 @@
 # NoFire_AIJorney2021
 Solution the task NoFireWithAI for AI Journey Contest 2021
 
+***Public score:*** 0.8972
+
+***Public result:*** 6 место
+
+### Description
+
 Решение основано на предоставленном от организаторов бейзлайне: https://github.com/sberbank-ai/no_fire_with_ai_aij2021
 
 Модели обучались аналогично данному бейзлайну.
