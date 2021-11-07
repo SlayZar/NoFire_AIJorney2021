@@ -3,7 +3,7 @@ Solution the task NoFireWithAI for AI Journey Contest 2021
 
 ***Public score:*** 0.8972
 
-***Public result:*** 6 место
+***Public result:*** 6 место (iamteam)
 
 ### Description
 
