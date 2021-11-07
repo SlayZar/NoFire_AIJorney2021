@@ -10,3 +10,4 @@ Solution the task NoFireWithAI for AI Journey Contest 2021
 Так как метрика соревнования довольно специфичная, штраф за ошибочное предсказание пожара в первый день намного больше ошибки в последующие дни.
 
 Например, 
+[![Youtube](./icons/prognoz_corr.png)]
